@@ -1,5 +1,5 @@
 - 📈👋 Hi, I’m @vcarvalhorj
-- 🥇 I am master student at Coppe/UFRJ
+- 🥇 I am a pdD student at Coppe/UFRJ
 - 📖 I’m interested in image segmentation with deeplearning
 - 📈 I’m currently learning machine learning, computer vision and Pore Network Modeling (PNM)
 - 🚀 I’m looking to collaborate on rock permeability estimation from images segmented with deeplearning 
